@@ -12,7 +12,7 @@ Read or watch:
 
 Resources for advanced tasks (Read only after finishing the mandatory tasks):
 
-- []Learning branching](https://intranet.alxswe.com/rltoken/tN8ZJ0yWubOP6jdciqtrFw)
+- [Learning branching](https://intranet.alxswe.com/rltoken/tN8ZJ0yWubOP6jdciqtrFw)
 - [Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/mjpQ9OCU0Dz-DFxZjASEJg)
 
 ## Learning Objectives
